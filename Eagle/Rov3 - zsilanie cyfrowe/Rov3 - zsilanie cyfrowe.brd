@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.4.2">
+<eagle version="9.5.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -209,6 +209,8 @@ POL</text>
 <rectangle x1="114.554" y1="15.367" x2="120.777" y2="17.272" layer="41"/>
 <rectangle x1="117.094" y1="40.767" x2="123.317" y2="42.672" layer="41"/>
 <text x="117.856" y="40.767" size="2" layer="1" ratio="20">DCW</text>
+<dimension x1="0" y1="58.42" x2="180.34" y2="58.42" x3="90.17" y3="63.5" textsize="1.778" layer="20" dtype="horizontal"/>
+<dimension x1="180.34" y1="58.42" x2="180.34" y2="0" x3="189.23" y3="29.21" textsize="1.778" layer="20" dtype="vertical"/>
 </plain>
 <libraries>
 <library name="rcl" urn="urn:adsk.eagle:library:334">
